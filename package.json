@@ -1,12 +1,12 @@
 {
-  "name": "hlorenzi-jisho-extension",
-  "displayName": "Lorenzi's Jisho Extension",
-  "version": "0.202212.1",
+  "name": "jisholens",
+  "displayName": "JishoLens",
+  "version": "1.0.0",
   "description": "Highlight any japanese phrase to analyze it with the best open-source japanese dictionary - Lorenzi's Jisho",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fuyutarow/solid-chrome-extension-template.git"
+    "url": "https://github.com/jacksontriffon/JishoLens.git"
   },
   "scripts": {
     "dev": "vite build -w",
