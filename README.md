@@ -1,4 +1,4 @@
-# JishoLens
+# JishoLens - An unofficial browser extension
 
 ![Lorenzi's Icon](https://accounts.hlorenzi.com/icon_round_256.png)
 
