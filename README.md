@@ -1,5 +1,7 @@
 # JishoLens
 
+![Lorenzi's Icon](https://accounts.hlorenzi.com/icon_round_256.png)
+
 Highlight any japanese phrase to analyze it with the best open-source japanese dictionary - **Lorenzi's Jisho**
 
 ## Resources
